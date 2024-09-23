@@ -1,0 +1,4 @@
+nome = input("Nome: ")
+idade = input("Idade: ")
+while True:
+try
